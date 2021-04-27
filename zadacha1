@@ -1,0 +1,5 @@
+<script>
+alert("Я JavaScript!");
+</script>
+или
+<script src="./js/app.js"></script>
